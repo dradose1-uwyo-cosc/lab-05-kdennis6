@@ -1,8 +1,8 @@
-# Your Name Here
+# Krysta Dennis
 # UWYO COSC 1010
-# Submission Date
-# Lab 03 
-# Lab Section: 
+# 10/10/2024
+# Lab 05
+# Lab Section: 12
 # Sources, people worked with, help given to: 
 # your
 # comments
